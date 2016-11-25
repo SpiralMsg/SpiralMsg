@@ -1,0 +1,15 @@
+Basic Two-person Terminal Instant Messenger
+
+Instructions:
+
+-Enable executable for both client.py and server.py with chmod if necessary.
+
+-Execute server.py (can run in background if you want).
+
+-Execute two instances of client.py in separate shells.
+
+-Messages can then be sent back and forth between shells through the command
+	line.
+
+-Adjust host and port settings in files accordingly to message from different
+	machines on the network. Current settings will work across same machine.
